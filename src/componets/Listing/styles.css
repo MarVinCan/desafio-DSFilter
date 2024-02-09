@@ -1,0 +1,27 @@
+.dsf-listing-card{
+    margin-top:  20px;
+    background-color: var(--dsf-color-bg-03);
+    border-radius: 5px;
+    border: 1px solid var(--dsf-color-border-01);
+    display: flex;
+    flex-direction: column;
+    padding: 20px 20px 10px 20px;
+}
+.dsf-items-listing{
+    display: flex;
+    flex-direction: column;
+    height: 53px;
+    border: 1px solid var(--dsf-color-border-02);
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.dsf-items-listing h3{
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--dsf-color-font-03);
+}
+.dsf-items-listing h4{
+    font-size: 16px;
+    color: var(--dsf-color-font-02);
+}

@@ -1,4 +1,5 @@
 import Header from "../../componets/Header";
+import Listing from "../../componets/Listing";
 import ListingBody from "../../componets/ListingBody";
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
     <>
       <Header/>
       <ListingBody/>
+      <Listing/>
     </>
   );
 }
