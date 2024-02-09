@@ -1,0 +1,23 @@
+header {
+    height: 70px;
+    background-color: var(--dsf-color-bg-01);
+    display: flex;
+    align-items: center;
+}
+.dsf-items-header{
+    color: var(--dsf-color-font-01);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dsf-items-header h1{
+    font-size: 20px;
+    
+}
+.dsf-number-products-header{
+    display: flex;
+    align-items: center;
+}
+.dsf-number-products-header h2{
+    font-size: 12px;
+}
