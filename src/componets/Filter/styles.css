@@ -16,11 +16,13 @@
 .dsf-form-items input{
     margin-bottom: 20px;
     border: 1px solid var(--dsf-color-border-01);
+    padding-left: 10px;
  
 }
+
 .dsf-form-items input::placeholder{
     color: var(--dsf-color-font-placeholder);
-    padding-left: 10px;
+   
  
 }
 
@@ -29,7 +31,10 @@
     color: var(--dsf-color-font-01);
     font-weight: 700;   
     border: none;
+    cursor: pointer;
 }
+
+
 .dsf-item-form{
     height: 40px;
     width: 200px;
